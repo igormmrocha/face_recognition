@@ -13,21 +13,19 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-Este trabalho descreve o desenvolvimento de um sistema inovador de registro de ponto eletrônico para colaboradores, que se vale de técnicas avançadas de aprendizado de máquina no âmbito do reconhecimento facial. O propósito central deste sistema é aprimorar a eficiência e precisão do registro de ponto, ao mesmo tempo em que proporciona maior comodidade aos colaboradores, utilizando apenas uma foto conhecida do colaborador para identificá-lo.
+Este trabalho descreve o desenvolvimento de um sistema de validação de identidade aplicado ao controle de ponto de colaboradores. O sistema se baseia em técnicas avançadas de aprendizado de máquina no campo do reconhecimento facial. Seu principal objetivo é aprimorar a segurança e a confiabilidade no controle de tempo dos colaboradores, sem aumentar a complexidade do processo, tanto para os colaboradores quanto para o setor de Recursos Humanos (RH), ao utilizar apenas uma única foto conhecida do funcionário para identificá-lo.
 
-Para atingir esse objetivo, o sistema utiliza algoritmos de reconhecimento facial capazes de identificar os colaboradores no momento em que registram o ponto, com base em uma única imagem previamente cadastrada. A partir dessa imagem, capturada durante o processo de cadastro, o sistema analisa minuciosamente características faciais como pontos de referência, expressões e outras particularidades únicas, validando a identidade do colaborador.
+Para atingir essa meta, o sistema emprega algoritmos de reconhecimento facial capazes de identificar os colaboradores no momento em que registram o ponto, com base em uma única imagem previamente cadastrada pela equipe de RH durante o processo de admissão. A partir dessa imagem, capturada durante a admissão do colaborador, o sistema analisa minuciosamente características faciais, como pontos de referência e expressões, validando, assim, a identidade do colaborador.
 
-Além disso, o sistema oferece uma interface amigável para os colaboradores, simplificando o processo de registro de ponto. Isso não apenas melhora a experiência do usuário, mas também aumenta a adesão ao sistema, tornando-o eficaz e conveniente para ambas as partes envolvidas.
-
-
+Em um cenário de trabalho remoto em crescimento, o sistema desempenha um papel fundamental na melhoria da segurança do registro de ponto. Ele garante uma validação adicional por meio da biometria facial, permitindo que apenas o próprio colaborador acesse e utilize o sistema de controle de ponto, independentemente de sua localização de trabalho. Além disso, a validação por biometria facial pode ser facilmente integrada a outros sistemas da empresa, com base no exemplo aqui apresentado, o que aumenta ainda mais a segurança da informação.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
-This work describes the development of an innovative electronic timekeeping system for employees that leverages advanced machine learning techniques in the realm of facial recognition. The central purpose of this system is to enhance the efficiency and accuracy of time tracking while providing greater convenience to employees, using only one known photo of the employee to identify them.
+This work describes the development of an identity validation system applied to employee time tracking. The system is based on advanced machine learning techniques in the field of facial recognition. Its primary aim is to enhance the security and reliability of employee time tracking without complicating the process, both for employees and the Human Resources (HR) department, by using only a single known photo of the employee for identification.
 
-To achieve this goal, the system employs facial recognition algorithms capable of identifying employees at the moment they clock in, based on a single previously registered image. From this image, captured during the enrollment process, the system meticulously analyzes facial features such as reference points, expressions, and other unique characteristics, validating the employee's identity.
+To achieve this goal, the system employs facial recognition algorithms capable of identifying employees at the moment they clock in, based on a single image previously registered by the HR team during the employee's onboarding process. From this image, captured during the employee's admission, the system meticulously analyzes facial features, such as reference points and expressions, thus validating the employee's identity.
 
-Furthermore, the system offers a user-friendly interface for employees, simplifying the time-tracking process. This not only improves the user experience but also increases system adoption, making it effective and convenient for both parties involved.
+In a growing remote work scenario, the system plays a crucial role in improving time tracking security. It provides additional validation through facial biometrics, ensuring that only the employee themselves can access and use the time tracking system, regardless of their work location. Moreover, facial biometric validation can be easily integrated into other company systems, based on the example presented here, further enhancing information security.
 
 ---
 
