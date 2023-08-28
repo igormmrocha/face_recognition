@@ -13,19 +13,21 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-Este trabalho apresenta o desenvolvimento e implementação de um sistema de registro de ponto eletrônico de colaboradores baseado em técnicas avançadas de aprendizado de máquina no campo do reconhecimento facial. O objetivo principal é melhorar a eficiência e a precisão do processo de registro de ponto, ao mesmo tempo em que proporciona maior comodidade aos colaboradores.
+Este trabalho descreve o desenvolvimento de um sistema inovador de registro de ponto eletrônico para colaboradores, que se vale de técnicas avançadas de aprendizado de máquina no âmbito do reconhecimento facial. O propósito central deste sistema é aprimorar a eficiência e precisão do registro de ponto, ao mesmo tempo em que proporciona maior comodidade aos colaboradores, utilizando apenas uma foto conhecida do colaborador para identificá-lo.
 
-Para atingir esse objetivo, o sistema utiliza algoritmos de reconhecimento facial para identificar os colaboradores no momento em que eles registram o ponto. A partir de imagens capturadas por câmeras, o sistema realiza a análise das características faciais, como pontos de referência, expressões e outras características únicas, para validar a identidade do colaborador.
+Para atingir esse objetivo, o sistema utiliza algoritmos de reconhecimento facial capazes de identificar os colaboradores no momento em que registram o ponto, com base em uma única imagem previamente cadastrada. A partir dessa imagem, capturada durante o processo de cadastro, o sistema analisa minuciosamente características faciais como pontos de referência, expressões e outras particularidades únicas, validando a identidade do colaborador.
+
+Além disso, o sistema oferece uma interface amigável para os colaboradores, simplificando o processo de registro de ponto. Isso não apenas melhora a experiência do usuário, mas também aumenta a adesão ao sistema, tornando-o eficaz e conveniente para ambas as partes envolvidas.
+
+
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
+This work describes the development of an innovative electronic timekeeping system for employees that leverages advanced machine learning techniques in the realm of facial recognition. The central purpose of this system is to enhance the efficiency and accuracy of time tracking while providing greater convenience to employees, using only one known photo of the employee to identify them.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+To achieve this goal, the system employs facial recognition algorithms capable of identifying employees at the moment they clock in, based on a single previously registered image. From this image, captured during the enrollment process, the system meticulously analyzes facial features such as reference points, expressions, and other unique characteristics, validating the employee's identity.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Furthermore, the system offers a user-friendly interface for employees, simplifying the time-tracking process. This not only improves the user experience but also increases system adoption, making it effective and convenient for both parties involved.
 
 ---
 
