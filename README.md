@@ -1,5 +1,5 @@
 
-# Reconhecimento Facial para identificação de colaboradores no registro de ponto eletrônico 
+# Reconhecimento Facial para Identificação de Colaboradores no Registro de Ponto Eletrônico 
 
 #### Aluno: [Igor Rocha](https://github.com/igormmrocha).
 #### Orientador: [Leonardo Forero Mendonza](https://github.com/leofome8).
